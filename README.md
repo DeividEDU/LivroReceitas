@@ -1,5 +1,5 @@
 #**Livro de receitas**
 
 Clique aqui para achar as receitas
- - [Sonho](receitas/Sonho.md).
+ - [Strogonoff de Frango](receitas/Strogonoff de Frango.md)
 
